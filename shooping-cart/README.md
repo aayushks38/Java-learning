@@ -15,4 +15,6 @@ It supports Buy 1 Get 1 Free and percentage discount offers.
 
 ## How to Run
 javac ShoppingCart.java
+
+
 java ShoppingCart
